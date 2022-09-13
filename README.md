@@ -1,0 +1,2 @@
+# tercero
+Historia lenguaje C
