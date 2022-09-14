@@ -1,0 +1,29 @@
+historia del lenguaje C
+¿que?
+sirvio para crear el sistema operativo unix, se caracteriza por su eficiencia es uno de los lenguajes mas empleados para diseñar sofware de sistemas se trata de un lenguaje de tipos de datos estaticos, debilmente tipado, de medio nivel, que dispone de las estructuras tipicas de los lenguajes de alto nivel pero, asu vez,dispone de construccion del lenguaje que permiten un control a bajo nivel. los copiladores suelen ofrecer extensiones al lenguaje que posibilitan mezclar codigo en ensamblador con codigo C o acceder directamente a memoria o dispositivos perificos.
+caracteristicas del lenguaje 	C
+Estructura de C lenguaje estructurado
+programacion nivel medio 
+no depende del hardware , por lo que se puede migrar a otros sitemas 
+objetos generales, no es un lenguaje para una tarea especifica pudiendo programar tanto un sistema operativo, una hoja de calculo o un juego
+organizar del trabajo con total libertad 
+los programas son producidos de forma rapida y son bastantes potentes
+rico en tipo de datos y variable en C
+
+se llevo acabo en los laboratorios Bell de AT&T entre  1969 y 1973, se dio el nombre de C porque muchas de sus caracteristicas fueron tomadas de un lenguaje anterior llamado B.
+
+¿donde?
+
+laboratorios bell de at&t
+
+¿quien?
+Ritchie Dennis y Brian Kerningha en 1978 publico el libro " el lenguaje  de programacion C" conocido como K &R 
+
+
+Ejemplo. Hola mundo
+#include
+
+int main()
+{
+    printf("Hola mundo");
+}
